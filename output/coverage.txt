@@ -1,0 +1,19 @@
+Name                     Stmts   Miss  Cover
+--------------------------------------------
+src/idmap/__init__.py        1      0   100%
+src/idmap/__main__.py        2      2     0%
+src/idmap/baseline.py       65      0   100%
+src/idmap/cli.py           108     10    91%
+src/idmap/config.py         92     10    89%
+src/idmap/db.py             41      4    90%
+src/idmap/ingest.py        152      9    94%
+src/idmap/match.py          27      1    96%
+src/idmap/metrics.py        98      3    97%
+src/idmap/normalize.py     105      0   100%
+src/idmap/pipeline.py      162      2    99%
+src/idmap/publish.py        17      0   100%
+src/idmap/report.py        263      7    97%
+src/idmap/resolve.py        23      0   100%
+src/idmap/validate.py       59      0   100%
+--------------------------------------------
+TOTAL                     1215     48    96%

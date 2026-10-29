@@ -1,0 +1,16 @@
+#   run_id                            file                                 status     read  staged  quar  dupes  mapped  conflict  unres  late  ins  closed  warn  ms
+--  --------------------------------  -----------------------------------  ---------  ----  ------  ----  -----  ------  --------  -----  ----  ---  ------  ----  --
+1   run_20261029T122428823Z_fcc4558c  data/sample/billing_batch_001.csv    SUCCEEDED  55    52      3     0      45      2         5      0     45   0       0     38
+2   run_20261029T122428866Z_8d56054d  data/sample/broken_schema_batch.csv  FAILED                                                                                  2 
+3   run_20261029T122428869Z_50fb8df6  data/sample/crm_batch_001.csv        SUCCEEDED  55    51      2     2      45      0         6      0     45   0       0     31
+4   run_20261029T122428904Z_72fd3218  data/sample/crm_batch_002.csv        SUCCEEDED  5     5       0     0      2       1         0      2     2    1       0     27
+5   run_20261029T122428935Z_dddc4125  data/sample/schema_drift_batch.csv   SUCCEEDED  5     5       0     0      5       0         0      0     5    0       2     26
+6   run_20261029T122428965Z_c01f61f4  data/sample/support_batch_001.csv    SUCCEEDED  48    41      6     1      35      0         6      0     35   0       0     31
+7   run_20261029T122429124Z_5f52f964  data/sample/billing_batch_001.csv    SKIPPED                                                                                 3 
+8   run_20261029T122429129Z_c10823fb  data/sample/broken_schema_batch.csv  FAILED                                                                                  2 
+9   run_20261029T122429133Z_727911eb  data/sample/crm_batch_001.csv        SKIPPED                                                                                 2 
+10  run_20261029T122429135Z_58a420c2  data/sample/crm_batch_002.csv        SKIPPED                                                                                 1 
+11  run_20261029T122429137Z_5035e46d  data/sample/schema_drift_batch.csv   SKIPPED                                                                                 1 
+12  run_20261029T122429139Z_5035b3a8  data/sample/support_batch_001.csv    SKIPPED                                                                                 1 
+  run_20261029T122428866Z_8d56054d: schema: SchemaContractError: SCHEMA_MISSING_COLUMN: required column(s) ['source_updated_at'] absent
+  run_20261029T122429129Z_c10823fb: schema: SchemaContractError: SCHEMA_MISSING_COLUMN: required column(s) ['source_updated_at'] absent

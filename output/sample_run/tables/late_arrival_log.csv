@@ -1,0 +1,3 @@
+run_id,source_system,source_id,record_updated_at,latest_applied_updated_at,current_valid_from,current_canonical_id,proposed_status,proposed_canonical_id,action
+run_20261029T122428904Z_72fd3218,crm,CRM-0000026,2026-09-05 20:48:47,2026-09-12 20:48:47,2026-09-12 20:48:47,can_000002,MAPPED,can_000030,IGNORED_FOR_CURRENT
+run_20261029T122428904Z_72fd3218,crm,CRM-0000053,2026-08-31 18:39:38,2026-09-10 18:39:38,2026-09-10 18:39:38,can_000024,MAPPED,can_000054,IGNORED_FOR_CURRENT

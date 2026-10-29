@@ -1,0 +1,85 @@
+canonical_id,legal_name,tax_id,primary_email,domain,phone,is_active,created_at
+can_000001,Aspen Heron Construction Inc,TX-982-464-047,info@aspenheronconstruction.example,aspenheronconstruction.example,+1 211-555-2739,True,2021-01-20 00:00:00
+can_000002,Solar Spark Ventures LLC,TX-964-915-700,hello@solarsparkventures.example,solarsparkventures.example,+1 212-555-0658,True,2021-02-03 00:00:00
+can_000003,Société Générale des Eaux Corp,TX-947-367-353,accounts@societegeneraledeseaux.example,societegeneraledeseaux.example,+1 212-555-8577,True,2020-06-09 00:00:00
+can_000004,Polar Wind Chemicals Ltd,TX-929-819-006,office@polarwindchemicals.example,polarwindchemicals.example,+1 213-555-6496,True,2024-04-29 00:00:00
+can_000005,Western Raven Chemicals Corp,TX-912-270-659,admin@westernravenchemicals.example,westernravenchemicals.example,+1 214-555-4415,True,2023-02-12 00:00:00
+can_000006,Pacific Tower Services LLC,TX-894-722-312,info@pacifictowerservices.example,pacifictowerservices.example,+1 215-555-2334,True,2025-06-09 00:00:00
+can_000007,Southern Bridge Software LLC,TX-877-173-965,accounts@southernbridgesoftware.example,southernbridgesoftware.example,+1 216-555-0253,True,2021-10-26 00:00:00
+can_000008,Island Grove Energy Pvt Ltd,TX-859-625-618,info@islandgroveenergy.example,islandgroveenergy.example,+1 216-555-8172,True,2025-12-03 00:00:00
+can_000009,Vertex Light Freight Corp,TX-842-077-271,office@vertexlightfreight.example,vertexlightfreight.example,+1 217-555-6091,True,2023-12-02 00:00:00
+can_000010,Meadow Sparrow Materials Ltd,TX-824-528-924,info@meadowsparrowmaterials.example,meadowsparrowmaterials.example,+1 218-555-4010,True,2024-06-09 00:00:00
+can_000011,Legacy Root Solutions Inc,TX-806-980-577,admin@legacyrootsolutions.example,legacyrootsolutions.example,+1 219-555-1929,True,2021-07-24 00:00:00
+can_000012,Summit Wolf Freight Corp,TX-789-432-230,office@summitwolffreight.example,summitwolffreight.example,+1 219-555-9848,True,2025-10-17 00:00:00
+can_000013,Golden Wave Textiles LLC,TX-771-883-883,contact@goldenwavetextiles.example,goldenwavetextiles.example,+1 220-555-7767,True,2023-02-08 00:00:00
+can_000014,Valley Bear Capital Ltd,TX-754-335-536,info@valleybearcapital.example,valleybearcapital.example,+1 221-555-5686,True,2021-09-24 00:00:00
+can_000015,Silver Rock Electronics Corp,TX-736-787-189,accounts@silverrockelectronics.example,silverrockelectronics.example,+1 222-555-3605,True,2020-03-15 00:00:00
+can_000016,Bright Bear Robotics Inc,TX-719-238-842,office@brightbearrobotics.example,brightbearrobotics.example,+1 223-555-1524,True,2020-12-28 00:00:00
+can_000017,Maple Star Consulting Inc,TX-701-690-495,admin@maplestarconsulting.example,maplestarconsulting.example,+1 223-555-9443,True,2022-09-03 00:00:00
+can_000018,Silver Mill Analytics Inc,TX-684-142-148,info@silvermillanalytics.example,silvermillanalytics.example,+1 224-555-7362,True,2025-09-02 00:00:00
+can_000019,Apex Wood Retail Ltd,TX-666-593-801,admin@apexwoodretail.example,apexwoodretail.example,+1 225-555-5281,True,2022-09-19 00:00:00
+can_000020,Western Flame Apparel LLC,TX-649-045-454,office@westernflameapparel.example,westernflameapparel.example,+1 226-555-3200,True,2024-05-14 00:00:00
+can_000021,Vertex Way Consulting Pvt Ltd,TX-631-497-107,admin@vertexwayconsulting.example,vertexwayconsulting.example,+1 227-555-1119,True,2020-03-06 00:00:00
+can_000022,Royal Port Electronics Inc,TX-613-948-760,office@royalportelectronics.example,royalportelectronics.example,+1 227-555-9038,True,2020-03-18 00:00:00
+can_000023,Highland Wood Software Corp,TX-596-400-413,office@highlandwoodsoftware.example,highlandwoodsoftware.example,+1 228-555-6957,True,2023-03-22 00:00:00
+can_000024,Southern Trail Robotics Inc,TX-578-852-066,office@southerntrailrobotics.example,southerntrailrobotics.example,+1 229-555-4876,True,2022-06-10 00:00:00
+can_000025,Granite Leaf Marine LLC,TX-561-303-719,accounts@graniteleafmarine.example,graniteleafmarine.example,+1 230-555-2795,True,2025-06-14 00:00:00
+can_000026,Coral Grove Software Corp,TX-543-755-372,accounts@coralgrovesoftware.example,coralgrovesoftware.example,+1 231-555-0714,True,2020-11-08 00:00:00
+can_000027,Southern Wave Consulting LLC,TX-526-207-025,accounts@southernwaveconsulting.example,southernwaveconsulting.example,+1 231-555-8633,True,2024-08-26 00:00:00
+can_000028,Summit Wave Health LLC,TX-508-658-678,info@summitwavehealth.example,summitwavehealth.example,+1 232-555-6552,True,2021-12-16 00:00:00
+can_000029,Silver Otter Analytics Corp,TX-491-110-331,office@silverotteranalytics.example,silverotteranalytics.example,+1 233-555-4471,True,2025-04-22 00:00:00
+can_000030,Polar Hawk Solutions Ltd,TX-473-561-984,contact@polarhawksolutions.example,polarhawksolutions.example,+1 234-555-2390,True,2022-10-28 00:00:00
+can_000031,Silver Spring Trading Ltd,TX-456-013-637,info@silverspringtrading.example,silverspringtrading.example,+1 235-555-0309,True,2020-03-30 00:00:00
+can_000032,Pine Wind Construction LLC,TX-438-465-290,info@pinewindconstruction.example,pinewindconstruction.example,+1 235-555-8228,True,2023-04-11 00:00:00
+can_000033,Swift Stone Exports Inc,TX-420-916-943,info@swiftstoneexports.example,swiftstoneexports.example,+1 236-555-6147,True,2021-11-09 00:00:00
+can_000034,Oak Peak Materials Inc,TX-403-368-596,info@oakpeakmaterials.example,oakpeakmaterials.example,+1 237-555-4066,True,2025-04-23 00:00:00
+can_000035,Willow Falcon Exports Pvt Ltd,TX-385-820-249,office@willowfalconexports.example,willowfalconexports.example,+1 238-555-1985,True,2020-09-24 00:00:00
+can_000036,Northern Path Electronics Pvt Ltd,TX-368-271-902,hello@northernpathelectronics.example,northernpathelectronics.example,+1 238-555-9904,True,2021-10-20 00:00:00
+can_000037,Müller Präzisionstechnik LLC,TX-350-723-555,office@mullerprazisionstechnik.example,mullerprazisionstechnik.example,+1 239-555-7823,True,2021-05-11 00:00:00
+can_000038,Golden Cloud Plastics Inc,TX-333-175-208,info@goldencloudplastics.example,goldencloudplastics.example,+1 240-555-5742,True,2020-01-19 00:00:00
+can_000039,Eastern Grove Retail LLC,TX-315-626-861,accounts@easterngroveretail.example,easterngroveretail.example,+1 241-555-3661,True,2022-11-30 00:00:00
+can_000040,Northern Light Exports LLC,TX-298-078-514,info@northernlightexports.example,northernlightexports.example,+1 242-555-1580,True,2023-09-02 00:00:00
+can_000041,Willow Seed Devices Ltd,TX-280-530-167,accounts@willowseeddevices.example,willowseeddevices.example,+1 242-555-9499,True,2024-09-01 00:00:00
+can_000042,Polar Grove Plastics LLC,TX-262-981-820,contact@polargroveplastics.example,polargroveplastics.example,+1 243-555-7418,True,2020-03-01 00:00:00
+can_000043,Southern Light Ventures Corp,TX-245-433-473,info@southernlightventures.example,southernlightventures.example,+1 244-555-5337,True,2021-10-18 00:00:00
+can_000044,Oak Tiger Energy LLC,TX-227-885-126,office@oaktigerenergy.example,oaktigerenergy.example,+1 245-555-3256,True,2022-02-27 00:00:00
+can_000045,Highland Crest Media Corp,TX-210-336-779,admin@highlandcrestmedia.example,highlandcrestmedia.example,+1 246-555-1175,True,2025-02-20 00:00:00
+can_000046,Summit Fox Exports Ltd,TX-192-788-432,office@summitfoxexports.example,summitfoxexports.example,+1 246-555-9094,True,2025-09-26 00:00:00
+can_000047,Swift Trail Networks LLC,TX-175-240-085,office@swifttrailnetworks.example,swifttrailnetworks.example,+1 247-555-7013,False,2022-06-24 00:00:00
+can_000048,Atlantic Sky Robotics Ltd,TX-157-691-738,accounts@atlanticskyrobotics.example,atlanticskyrobotics.example,+1 248-555-4932,True,2021-11-22 00:00:00
+can_000049,Bright Lion Studios Pvt Ltd,TX-140-143-391,office@brightlionstudios.example,brightlionstudios.example,+1 249-555-2851,True,2024-06-02 00:00:00
+can_000050,Southern Otter Mining LLC,TX-122-595-044,admin@southernottermining.example,southernottermining.example,+1 250-555-0770,True,2020-07-05 00:00:00
+can_000051,Island Root Mining Amber Mill Polar Eastern Systems Supply Port Freight Arctic Systems Blue Engineering Tower Frontier Line Textiles Atlantic Leaf Noble Sparrow Insurance Horizon Arctic Horizon Construction Clear Vertex Heritage Trading Aspen Oak Netw LLC,TX-105-046-697,contact@islandrootmining.example,islandrootmining.example,+1 250-555-8689,True,2020-01-02 00:00:00
+can_000052,Vector Port Pharma LLC,TX-087-498-350,info@vectorportpharma.example,vectorportpharma.example,+1 251-555-6608,True,2022-12-06 00:00:00
+can_000053,Quantum Frost Services Pvt Ltd,TX-069-950-003,accounts@quantumfrostservices.example,quantumfrostservices.example,+1 252-555-4527,True,2025-04-17 00:00:00
+can_000054,Silver Tiger Labs Pvt Ltd,TX-052-401-656,contact@silvertigerlabs.example,silvertigerlabs.example,+1 253-555-2446,True,2023-11-13 00:00:00
+can_000055,Emerald Link Services Inc,TX-034-853-309,office@emeraldlinkservices.example,emeraldlinkservices.example,+1 254-555-0365,True,2024-04-21 00:00:00
+can_000056,Silver Spring Foods Corp,TX-017-304-962,admin@silverspringfoods.example,silverspringfoods.example,+1 254-555-8284,True,2021-02-06 00:00:00
+can_000057,Crimson Trail Security Ltd,TX-999-756-615,admin@crimsontrailsecurity.example,crimsontrailsecurity.example,+1 255-555-6203,True,2022-12-03 00:00:00
+can_000058,Valley Cloud Foods Ltd,TX-982-208-268,contact@valleycloudfoods.example,valleycloudfoods.example,+1 256-555-4122,True,2023-05-26 00:00:00
+can_000059,Frontier Stone Motors Corp,TX-964-659-921,accounts@frontierstonemotors.example,frontierstonemotors.example,+1 257-555-2041,True,2022-11-19 00:00:00
+can_000060,Heritage Peak Exports Ltd,TX-947-111-574,accounts@heritagepeakexports.example,heritagepeakexports.example,+1 257-555-9960,True,2023-01-26 00:00:00
+can_000061,Solar Tower Industries LLC,TX-929-563-227,office@solartowerindustries.example,solartowerindustries.example,+1 258-555-7879,True,2021-05-23 00:00:00
+can_000062,Clear Lion Analytics Ltd,TX-912-014-880,admin@clearlionanalytics.example,clearlionanalytics.example,+1 259-555-5798,True,2022-06-11 00:00:00
+can_000063,Royal Grove Apparel Ltd,TX-894-466-533,accounts@royalgroveapparel.example,royalgroveapparel.example,+1 260-555-3717,True,2025-02-14 00:00:00
+can_000064,Amber Brook Plastics LLC,TX-876-918-186,contact@amberbrookplastics.example,amberbrookplastics.example,+1 261-555-1636,True,2021-06-13 00:00:00
+can_000065,Cedar Bloom Electronics LLC,TX-859-369-839,accounts@cedarbloomelectronics.example,cedarbloomelectronics.example,+1 261-555-9555,True,2023-12-24 00:00:00
+can_000066,Oak Forge Solutions Ltd,TX-841-821-492,hello@oakforgesolutions.example,oakforgesolutions.example,+1 262-555-7474,True,2025-05-18 00:00:00
+can_000067,Ivory Brook Furniture LLC,TX-824-273-145,admin@ivorybrookfurniture.example,ivorybrookfurniture.example,+1 263-555-5393,True,2021-01-05 00:00:00
+can_000068,Arctic Tiger Studios Corp,TX-806-724-798,contact@arctictigerstudios.example,arctictigerstudios.example,+1 264-555-3312,True,2021-07-24 00:00:00
+can_000069,Golden Way Metals Corp,TX-789-176-451,contact@goldenwaymetals.example,goldenwaymetals.example,+1 265-555-1231,True,2020-05-18 00:00:00
+can_000070,Lake Sky Consulting Ltd,TX-771-628-104,info@lakeskyconsulting.example,lakeskyconsulting.example,+1 265-555-9150,True,2024-02-08 00:00:00
+can_000071,Liberty Line Electronics LLC,TX-754-079-757,hello@libertylineelectronics.example,libertylineelectronics.example,+1 266-555-7069,True,2024-11-17 00:00:00
+can_000072,Golden Hawk Capital Pvt Ltd,TX-736-531-410,office@solartowerindustries.example,goldenhawkcapital.example,+1 267-555-4988,True,2022-05-24 00:00:00
+can_000073,Southern Otter Mining Inc,TX-718-983-063,office@southernottermining.example,southernottermining.example,+1 268-555-2907,True,2022-01-10 00:00:00
+can_000074,Noble Light Ventures Corp,TX-701-434-716,admin@apexwoodretail.example,noblelightventures.example,+1 269-555-0826,True,2021-01-03 00:00:00
+can_000075,Polar Sky Trading Corp,TX-561-047-940,info@polarskytrading.example,polarskytrading.example,+1 275-555-4178,True,2022-06-05 00:00:00
+can_000076,Summit Port Ventures Corp,TX-543-499-593,info@summitportventures.example,summitportventures.example,+1 276-555-2097,True,2020-06-12 00:00:00
+can_000077,Valley Heron Networks Inc,TX-525-951-246,office@valleyheronnetworks.example,valleyheronnetworks.example,+1 277-555-0016,True,2020-08-14 00:00:00
+can_000078,Harbor Ridge Logistics Corp,TX-508-402-899,admin@harborridgelogistics.example,harborridgelogistics.example,+1 277-555-7935,True,2023-11-26 00:00:00
+can_000079,River Light Holdings Inc,TX-490-854-552,info@riverlightholdings.example,riverlightholdings.example,+1 278-555-5854,True,2023-09-19 00:00:00
+can_000080,Island Sky Foods LLC,TX-473-306-205,contact@islandskyfoods.example,islandskyfoods.example,+1 279-555-3773,True,2025-01-06 00:00:00
+can_000081,Coral Tiger Finance LLC,TX-455-757-858,contact@coraltigerfinance.example,coraltigerfinance.example,+1 280-555-1692,True,2021-04-04 00:00:00
+can_000082,Amber Wave Plastics LLC,TX-438-209-511,admin@amberwaveplastics.example,amberwaveplastics.example,+1 280-555-9611,True,2021-04-07 00:00:00
+can_000083,Summit Way Electronics Pvt Ltd,TX-420-661-164,office@summitwayelectronics.example,summitwayelectronics.example,+1 281-555-7530,True,2021-04-14 00:00:00
+can_000084,Emerald Spark Metals Inc,TX-403-112-817,contact@emeraldsparkmetals.example,emeraldsparkmetals.example,+1 282-555-5449,True,2024-03-09 00:00:00

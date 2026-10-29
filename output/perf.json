@@ -1,0 +1,143 @@
+[
+  {
+    "n": 10000,
+    "pipeline": {
+      "wall_s": 0.6089534170168918,
+      "rows_read": 10317,
+      "rows_staged": 9676,
+      "files": 6,
+      "succeeded": 5,
+      "stages_ms": {
+        "ingest": 6,
+        "schema": 8,
+        "validate": 126,
+        "dedup": 49,
+        "normalize": 45,
+        "match": 20,
+        "resolve": 21,
+        "publish": 40,
+        "status": 64,
+        "metrics": 15
+      },
+      "peak_rss_mb": 223.140625
+    },
+    "optimized": {
+      "engine": "sql",
+      "keys": 9503,
+      "compute_s": 0.06768270800239407,
+      "steps": {
+        "index": 0.028912832989590243,
+        "normalize": 0.022346042009303346,
+        "match_resolve": 0.01641887499135919
+      },
+      "decisions_sha256": "fbf96323dd5d0a53336fcda4c97f907a889ffc1f31cc579b459096fa9d86c1b9",
+      "peak_rss_mb": 133.4375
+    },
+    "baseline": {
+      "engine": "python",
+      "keys": 9503,
+      "load_s": 0.009350958018330857,
+      "compute_s": 0.06693091601482593,
+      "steps": {
+        "index": 0.027758458018070087,
+        "normalize_match_resolve": 0.03917245799675584
+      },
+      "decisions_sha256": "fbf96323dd5d0a53336fcda4c97f907a889ffc1f31cc579b459096fa9d86c1b9",
+      "peak_rss_mb": 108.3125
+    }
+  },
+  {
+    "n": 100000,
+    "pipeline": {
+      "wall_s": 3.248759834008524,
+      "rows_read": 103157,
+      "rows_staged": 96757,
+      "files": 6,
+      "succeeded": 5,
+      "stages_ms": {
+        "ingest": 10,
+        "schema": 9,
+        "validate": 854,
+        "dedup": 183,
+        "normalize": 264,
+        "match": 115,
+        "resolve": 62,
+        "publish": 250,
+        "status": 265,
+        "metrics": 15
+      },
+      "peak_rss_mb": 547.40625
+    },
+    "optimized": {
+      "engine": "sql",
+      "keys": 95014,
+      "compute_s": 0.5297387079917826,
+      "steps": {
+        "index": 0.2504063749802299,
+        "normalize": 0.184180957992794,
+        "match_resolve": 0.09514520800439641
+      },
+      "decisions_sha256": "15bb38567a0800872e7c8fd6d3d3ebc695240b24a599c91b70e5ebdb1a59ee49",
+      "peak_rss_mb": 388.578125
+    },
+    "baseline": {
+      "engine": "python",
+      "keys": 95014,
+      "load_s": 0.08551441598683596,
+      "compute_s": 0.6662102919945028,
+      "steps": {
+        "index": 0.224260792019777,
+        "normalize_match_resolve": 0.44194949997472577
+      },
+      "decisions_sha256": "15bb38567a0800872e7c8fd6d3d3ebc695240b24a599c91b70e5ebdb1a59ee49",
+      "peak_rss_mb": 295.609375
+    }
+  },
+  {
+    "n": 1000000,
+    "pipeline": {
+      "wall_s": 25.222498667018954,
+      "rows_read": 1031721,
+      "rows_staged": 967728,
+      "files": 6,
+      "succeeded": 5,
+      "stages_ms": {
+        "ingest": 65,
+        "schema": 10,
+        "validate": 7238,
+        "dedup": 1381,
+        "normalize": 3327,
+        "match": 1403,
+        "resolve": 374,
+        "publish": 2179,
+        "status": 3032,
+        "metrics": 17
+      },
+      "peak_rss_mb": 2043.859375
+    },
+    "optimized": {
+      "engine": "sql",
+      "keys": 950298,
+      "compute_s": 1.8954212910030037,
+      "steps": {
+        "index": 1.132907499995781,
+        "normalize": 0.22082854199106805,
+        "match_resolve": 0.5416791250172537
+      },
+      "decisions_sha256": "684c8304ef0bb8980a2c1456bdf2be1741fd73fdb01e94ba8fccdadf6bd7edc8",
+      "peak_rss_mb": 2242.203125
+    },
+    "baseline": {
+      "engine": "python",
+      "keys": 950298,
+      "load_s": 0.8685477089893539,
+      "compute_s": 7.304449916002341,
+      "steps": {
+        "index": 2.814109915983863,
+        "normalize_match_resolve": 4.490340000018477
+      },
+      "decisions_sha256": "684c8304ef0bb8980a2c1456bdf2be1741fd73fdb01e94ba8fccdadf6bd7edc8",
+      "peak_rss_mb": 2144.875
+    }
+  }
+]

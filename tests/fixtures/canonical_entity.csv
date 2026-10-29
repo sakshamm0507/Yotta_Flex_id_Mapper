@@ -1,0 +1,9 @@
+canonical_id,legal_name,tax_id,primary_email,domain,phone,is_active
+can_000001,Acme Widgets Inc,TX-100-0001,contact@acme.example,acme.example,+1 415 555 0101,true
+can_000002,Globex Corporation,TX-100-0002,info@globex.example,globex.example,+1 415 555 0102,true
+can_000003,Initech LLC,TX-100-0003,hello@initech.example,initech.example,+1 415 555 0103,true
+can_000004,Initech Ltd,TX-100-0004,hello@initech.example,initech.example,+1 415 555 0104,true
+can_000005,Umbrella Pvt Ltd,TX-100-0005,ops@umbrella.example,umbrella.example,+1 415 555 0105,false
+can_000006,Stark Industries,TX-100-0006,office@stark.example,stark.example,+1 415 555 0106,true
+can_000007,Wayne Enterprises,TX-100-0007,info@wayne.example,wayne.example,+1 415 555 0107,true
+can_000008,Société Générale des Eaux,TX-100-0008,contact@sge.example,sge.example,+44 20 7946 0958,true

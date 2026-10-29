@@ -1,0 +1,293 @@
+run_id,source_system,source_id,canonical_id,rule_id,rule_priority,matched_value
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000001,can_000029,manual_override,0,billing:BIL-0000001
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000002,can_000021,exact_email,2,admin@vertexwayconsulting.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000002,can_000021,exact_tax_id,1,TX631497107
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000002,can_000021,rule_name_domain,3,vertex way consulting|vertexwayconsulting.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000002,can_000021,rule_phone_name,4,+12275551119|vertex
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000003,can_000060,exact_email,2,accounts@heritagepeakexports.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000003,can_000060,exact_tax_id,1,TX947111574
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000005,can_000034,exact_tax_id,1,TX403368596
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000005,can_000034,rule_name_domain,3,oak peak materials|oakpeakmaterials.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000005,can_000034,rule_phone_name,4,+12375554066|oak
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000006,can_000009,exact_email,2,office@vertexlightfreight.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000006,can_000009,exact_tax_id,1,TX842077271
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000007,can_000066,exact_email,2,hello@oakforgesolutions.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000007,can_000066,exact_tax_id,1,TX841821492
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000008,can_000018,exact_email,2,info@silvermillanalytics.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000008,can_000018,exact_tax_id,1,TX684142148
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000009,can_000004,exact_tax_id,1,TX929819006
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000009,can_000004,rule_name_domain,3,polar wind chemicals|polarwindchemicals.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000009,can_000004,rule_phone_name,4,+12135556496|polar
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000010,can_000037,exact_email,2,office@mullerprazisionstechnik.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000010,can_000037,exact_tax_id,1,TX350723555
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000010,can_000037,rule_name_domain,3,müller präzisionstechnik|mullerprazisionstechnik.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000010,can_000037,rule_phone_name,4,+12395557823|müller
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000011,can_000008,exact_tax_id,1,TX859625618
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000012,can_000035,exact_tax_id,1,TX385820249
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000015,can_000072,exact_tax_id,1,TX736531410
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000016,can_000027,rule_phone_name,4,+12315558633|southern
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000017,can_000016,exact_tax_id,1,TX719238842
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000017,can_000016,rule_phone_name,4,+12235551524|bright
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000019,can_000051,exact_tax_id,1,TX105046697
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000019,can_000051,rule_name_domain,3,island root mining amber mill polar eastern systems supply port freight arctic systems blue engineering tower frontier line textiles atlantic leaf noble sparrow insurance horizon arctic horizon construction clear vertex heritage trading aspen oak netw|islandrootmining.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000021,can_000057,exact_email,2,admin@crimsontrailsecurity.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000021,can_000057,exact_tax_id,1,TX999756615
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000021,can_000057,rule_phone_name,4,+12555556203|crimson
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000022,can_000006,exact_tax_id,1,TX894722312
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000023,can_000049,exact_email,2,office@brightlionstudios.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000024,can_000073,exact_email,2,office@southernottermining.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000024,can_000073,exact_tax_id,1,TX718983063
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000025,can_000026,exact_tax_id,1,TX543755372
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000026,can_000025,exact_email,2,accounts@graniteleafmarine.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000026,can_000025,exact_tax_id,1,TX561303719
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000026,can_000025,rule_name_domain,3,granite leaf marine|graniteleafmarine.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000027,can_000065,exact_tax_id,1,TX859369839
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000029,can_000007,exact_tax_id,1,TX877173965
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000030,can_000023,exact_email,2,office@highlandwoodsoftware.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000030,can_000023,exact_tax_id,1,TX596400413
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000031,can_000050,manual_override,0,billing:BIL-0000031
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000031,can_000050,rule_name_domain,3,southern otter mining|southernottermining.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000031,can_000050,rule_phone_name,4,+12505550770|southern
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000031,can_000073,rule_name_domain,3,southern otter mining|southernottermining.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000032,can_000030,exact_email,2,contact@polarhawksolutions.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000032,can_000030,exact_tax_id,1,TX473561984
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000033,can_000059,exact_email,2,accounts@frontierstonemotors.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000033,can_000059,exact_tax_id,1,TX964659921
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000033,can_000059,rule_name_domain,3,frontier stone motors|frontierstonemotors.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000034,can_000019,exact_email,2,admin@apexwoodretail.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000034,can_000019,rule_name_domain,3,apex wood retail|apexwoodretail.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000034,can_000019,rule_phone_name,4,+12255555281|apex
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000034,can_000074,exact_email,2,admin@apexwoodretail.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000035,can_000055,exact_email,2,office@emeraldlinkservices.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000035,can_000055,exact_tax_id,1,TX034853309
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000035,can_000055,rule_name_domain,3,emerald link services|emeraldlinkservices.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000035,can_000055,rule_phone_name,4,+12545550365|emerald
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000037,can_000014,rule_phone_name,4,+12215555686|valley
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000038,can_000064,exact_tax_id,1,TX876918186
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000040,can_000052,exact_tax_id,1,TX087498350
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000040,can_000052,rule_name_domain,3,vector port pharma|vectorportpharma.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000043,can_000005,exact_tax_id,1,TX912270659
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000045,can_000003,exact_tax_id,1,TX947367353
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000045,can_000003,rule_phone_name,4,+12125558577|société
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000046,can_000040,exact_tax_id,1,TX298078514
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000046,can_000040,rule_name_domain,3,northern light exports|northernlightexports.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000046,can_000040,rule_phone_name,4,+12425551580|northern
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000047,can_000044,exact_tax_id,1,TX227885126
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000047,can_000044,rule_phone_name,4,+12455553256|oak
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000048,can_000042,rule_phone_name,4,+12435557418|polar
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000049,can_000013,exact_tax_id,1,TX771883883
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000050,can_000028,exact_tax_id,1,TX508658678
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000051,can_000002,exact_email,2,hello@solarsparkventures.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000051,can_000002,exact_tax_id,1,TX964915700
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000053,can_000036,exact_tax_id,1,TX368271902
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000053,can_000036,rule_name_domain,3,northern path electronics|northernpathelectronics.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000053,can_000036,rule_phone_name,4,+12385559904|northern
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000054,can_000024,rule_phone_name,4,+12295554876|southern
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000055,can_000074,exact_tax_id,1,TX701434716
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000055,can_000074,rule_phone_name,4,+12695550826|noble
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000056,can_000068,rule_phone_name,4,+12645553312|arctic
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000057,can_000061,exact_email,2,office@solartowerindustries.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000057,can_000072,exact_email,2,office@solartowerindustries.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-0000058,can_000048,exact_tax_id,1,TX157691738
+run_20261029T122428823Z_fcc4558c,billing,BIL-LONG-0000039-ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ,can_000033,exact_email,2,info@swiftstoneexports.example
+run_20261029T122428823Z_fcc4558c,billing,BIL-LONG-0000039-ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ,can_000033,rule_name_domain,3,swift stone exports|swiftstoneexports.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000001,can_000060,exact_email,2,accounts@heritagepeakexports.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000001,can_000060,rule_phone_name,4,+12575559960|heritage
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000003,can_000018,rule_phone_name,4,+12245557362|silver
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000004,can_000033,exact_email,2,info@swiftstoneexports.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000004,can_000033,exact_tax_id,1,TX420916943
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000004,can_000033,rule_name_domain,3,swift stone exports|swiftstoneexports.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000004,can_000033,rule_phone_name,4,+12365556147|swift
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000005,can_000062,exact_email,2,admin@clearlionanalytics.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000005,can_000062,rule_phone_name,4,+12595555798|clear
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000006,can_000011,exact_email,2,admin@legacyrootsolutions.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000006,can_000011,exact_tax_id,1,TX806980577
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000006,can_000011,rule_name_domain,3,legacy root solutions|legacyrootsolutions.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000006,can_000011,rule_phone_name,4,+12195551929|legacy
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000007,can_000033,exact_email,2,info@swiftstoneexports.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000007,can_000033,exact_tax_id,1,TX420916943
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000007,can_000033,rule_name_domain,3,swift stone exports|swiftstoneexports.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000007,can_000033,rule_phone_name,4,+12365556147|swift
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000008,can_000040,exact_email,2,info@northernlightexports.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000008,can_000040,rule_name_domain,3,northern light exports|northernlightexports.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000008,can_000040,rule_phone_name,4,+12425551580|northern
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000009,can_000055,exact_tax_id,1,TX034853309
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000009,can_000055,rule_name_domain,3,emerald link services|emeraldlinkservices.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000010,can_000046,exact_email,2,office@summitfoxexports.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000010,can_000046,rule_name_domain,3,summit fox exports|summitfoxexports.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000010,can_000046,rule_phone_name,4,+12465559094|summit
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000011,can_000052,rule_name_domain,3,vector port pharma|vectorportpharma.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000011,can_000052,rule_phone_name,4,+12515556608|vector
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000012,can_000010,rule_name_domain,3,meadow sparrow materials|meadowsparrowmaterials.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000012,can_000010,rule_phone_name,4,+12185554010|meadow
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000013,can_000025,exact_email,2,accounts@graniteleafmarine.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000013,can_000025,exact_tax_id,1,TX561303719
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000013,can_000025,rule_name_domain,3,granite leaf marine|graniteleafmarine.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000013,can_000025,rule_phone_name,4,+12305552795|granite
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000014,can_000044,exact_email,2,office@oaktigerenergy.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000014,can_000044,rule_name_domain,3,oak tiger energy|oaktigerenergy.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000014,can_000044,rule_phone_name,4,+12455553256|oak
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000015,can_000059,exact_email,2,accounts@frontierstonemotors.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000015,can_000059,rule_phone_name,4,+12575552041|frontier
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000016,can_000031,exact_email,2,info@silverspringtrading.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000016,can_000031,rule_name_domain,3,silver spring trading|silverspringtrading.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000016,can_000031,rule_phone_name,4,+12355550309|silver
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000017,can_000042,exact_tax_id,1,TX262981820
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000017,can_000042,rule_name_domain,3,polar grove plastics|polargroveplastics.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000017,can_000042,rule_phone_name,4,+12435557418|polar
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000018,can_000043,exact_email,2,info@southernlightventures.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000018,can_000043,rule_name_domain,3,southern light ventures|southernlightventures.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000018,can_000043,rule_phone_name,4,+12445555337|southern
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000019,can_000066,exact_email,2,hello@oakforgesolutions.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000019,can_000066,rule_name_domain,3,oak forge solutions|oakforgesolutions.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000019,can_000066,rule_phone_name,4,+12625557474|oak
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000020,can_000026,rule_name_domain,3,coral grove software|coralgrovesoftware.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000020,can_000026,rule_phone_name,4,+12315550714|coral
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000022,can_000022,exact_email,2,office@royalportelectronics.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000022,can_000022,rule_name_domain,3,royal port electronics|royalportelectronics.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000022,can_000022,rule_phone_name,4,+12275559038|royal
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000023,can_000015,rule_name_domain,3,silver rock electronics|silverrockelectronics.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000023,can_000015,rule_phone_name,4,+12225553605|silver
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000024,can_000061,exact_email,2,office@solartowerindustries.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000024,can_000061,exact_tax_id,1,TX929563227
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000024,can_000061,rule_name_domain,3,solar tower industries|solartowerindustries.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000024,can_000072,exact_email,2,office@solartowerindustries.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000025,can_000067,exact_email,2,admin@ivorybrookfurniture.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000025,can_000067,rule_phone_name,4,+12635555393|ivory
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000026,can_000002,exact_email,2,hello@solarsparkventures.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000026,can_000002,rule_name_domain,3,solar spark ventures|solarsparkventures.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000026,can_000002,rule_phone_name,4,+12125550658|solar
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000027,can_000008,exact_tax_id,1,TX859625618
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000027,can_000008,rule_phone_name,4,+12165558172|island
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000028,can_000032,exact_tax_id,1,TX438465290
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000028,can_000032,rule_phone_name,4,+12355558228|pine
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000031,can_000030,exact_tax_id,1,TX473561984
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000031,can_000030,rule_phone_name,4,+12345552390|polar
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000032,can_000057,exact_email,2,admin@crimsontrailsecurity.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000033,can_000012,exact_email,2,office@summitwolffreight.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000033,can_000012,exact_tax_id,1,TX789432230
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000033,can_000012,rule_name_domain,3,summit wolf freight|summitwolffreight.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000033,can_000012,rule_phone_name,4,+12195559848|summit
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000034,can_000008,rule_phone_name,4,+12165558172|island
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000035,can_000007,rule_name_domain,3,southern bridge software|southernbridgesoftware.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000035,can_000007,rule_phone_name,4,+12165550253|southern
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000036,can_000049,exact_email,2,office@brightlionstudios.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000036,can_000049,rule_name_domain,3,bright lion studios|brightlionstudios.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000036,can_000049,rule_phone_name,4,+12495552851|bright
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000038,can_000051,exact_email,2,contact@islandrootmining.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000038,can_000051,rule_name_domain,3,island root mining amber mill polar eastern systems supply port freight arctic systems blue engineering tower frontier line textiles atlantic leaf noble sparrow insurance horizon arctic horizon construction clear vertex heritage trading aspen oak netw|islandrootmining.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000038,can_000051,rule_phone_name,4,+12505558689|island
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000039,can_000050,exact_email,2,admin@southernottermining.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000039,can_000050,exact_tax_id,1,TX122595044
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000039,can_000050,rule_name_domain,3,southern otter mining|southernottermining.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000039,can_000050,rule_phone_name,4,+12505550770|southern
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000039,can_000073,rule_name_domain,3,southern otter mining|southernottermining.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000041,can_000027,exact_email,2,accounts@southernwaveconsulting.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000041,can_000027,rule_name_domain,3,southern wave consulting|southernwaveconsulting.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000041,can_000027,rule_phone_name,4,+12315558633|southern
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000043,can_000028,exact_tax_id,1,TX508658678
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000043,can_000028,rule_phone_name,4,+12325556552|summit
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000044,can_000001,exact_email,2,info@aspenheronconstruction.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000044,can_000001,rule_name_domain,3,aspen heron construction|aspenheronconstruction.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000044,can_000001,rule_phone_name,4,+12115552739|aspen
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000045,can_000063,exact_tax_id,1,TX894466533
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000045,can_000063,rule_name_domain,3,royal grove apparel|royalgroveapparel.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000045,can_000063,rule_phone_name,4,+12605553717|royal
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000046,can_000034,exact_email,2,info@oakpeakmaterials.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000046,can_000034,rule_name_domain,3,oak peak materials|oakpeakmaterials.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000047,can_000038,exact_email,2,info@goldencloudplastics.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000047,can_000038,rule_name_domain,3,golden cloud plastics|goldencloudplastics.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000047,can_000038,rule_phone_name,4,+12405555742|golden
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000048,can_000019,exact_email,2,admin@apexwoodretail.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000048,can_000019,exact_tax_id,1,TX666593801
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000048,can_000019,rule_phone_name,4,+12255555281|apex
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000048,can_000074,exact_email,2,admin@apexwoodretail.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000050,can_000068,exact_email,2,contact@arctictigerstudios.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000050,can_000068,rule_name_domain,3,arctic tiger studios|arctictigerstudios.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000050,can_000068,rule_phone_name,4,+12645553312|arctic
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000051,can_000013,rule_name_domain,3,golden wave textiles|goldenwavetextiles.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000051,can_000013,rule_phone_name,4,+12205557767|golden
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000052,can_000056,exact_tax_id,1,TX017304962
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000052,can_000056,rule_phone_name,4,+12545558284|silver
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000053,can_000024,exact_email,2,office@southerntrailrobotics.example
+run_20261029T122428869Z_50fb8df6,crm,CRM-0000053,can_000024,rule_name_domain,3,southern trail robotics|southerntrailrobotics.example
+run_20261029T122428904Z_72fd3218,crm,CRM-0000022,can_000038,exact_tax_id,1,TX333175208
+run_20261029T122428904Z_72fd3218,crm,CRM-0000022,can_000038,rule_name_domain,3,golden cloud plastics|goldencloudplastics.example
+run_20261029T122428904Z_72fd3218,crm,CRM-0000026,can_000030,exact_tax_id,1,TX473561984
+run_20261029T122428904Z_72fd3218,crm,CRM-0000048,can_000019,exact_email,2,admin@apexwoodretail.example
+run_20261029T122428904Z_72fd3218,crm,CRM-0000048,can_000019,rule_phone_name,4,+12255555281|apex
+run_20261029T122428904Z_72fd3218,crm,CRM-0000048,can_000074,exact_email,2,admin@apexwoodretail.example
+run_20261029T122428904Z_72fd3218,crm,CRM-0000049,can_000035,exact_tax_id,1,TX385820249
+run_20261029T122428904Z_72fd3218,crm,CRM-0000053,can_000054,exact_tax_id,1,TX052401656
+run_20261029T122428935Z_dddc4125,support,SUP-0000024,can_000078,exact_email,2,admin@harborridgelogistics.example
+run_20261029T122428935Z_dddc4125,support,SUP-0000031,can_000076,exact_email,2,info@summitportventures.example
+run_20261029T122428935Z_dddc4125,support,SUP-0000031,can_000076,rule_name_domain,3,summit port ventures|summitportventures.example
+run_20261029T122428935Z_dddc4125,support,SUP-0000031,can_000076,rule_phone_name,4,+12765552097|summit
+run_20261029T122428935Z_dddc4125,support,SUP-0000043,can_000077,exact_email,2,office@valleyheronnetworks.example
+run_20261029T122428935Z_dddc4125,support,SUP-0000043,can_000077,rule_phone_name,4,+12775550016|valley
+run_20261029T122428935Z_dddc4125,support,SUP-0000047,can_000075,exact_email,2,info@polarskytrading.example
+run_20261029T122428935Z_dddc4125,support,SUP-0000047,can_000075,rule_phone_name,4,+12755554178|polar
+run_20261029T122428935Z_dddc4125,support,SUP-0000048,can_000079,exact_email,2,info@riverlightholdings.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000001,can_000002,rule_phone_name,4,+12125550658|solar
+run_20261029T122428965Z_c01f61f4,support,SUP-0000002,can_000032,rule_name_domain,3,pine wind construction|pinewindconstruction.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000002,can_000032,rule_phone_name,4,+12355558228|pine
+run_20261029T122428965Z_c01f61f4,support,SUP-0000003,can_000054,exact_email,2,contact@silvertigerlabs.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000003,can_000054,rule_name_domain,3,silver tiger labs|silvertigerlabs.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000003,can_000054,rule_phone_name,4,+12535552446|silver
+run_20261029T122428965Z_c01f61f4,support,SUP-0000004,can_000049,exact_email,2,office@brightlionstudios.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000004,can_000049,rule_phone_name,4,+12495552851|bright
+run_20261029T122428965Z_c01f61f4,support,SUP-0000005,can_000039,exact_email,2,accounts@easterngroveretail.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000005,can_000039,exact_tax_id,1,TX315626861
+run_20261029T122428965Z_c01f61f4,support,SUP-0000005,can_000039,rule_name_domain,3,eastern grove retail|easterngroveretail.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000005,can_000039,rule_phone_name,4,+12415553661|eastern
+run_20261029T122428965Z_c01f61f4,support,SUP-0000006,can_000045,exact_email,2,admin@highlandcrestmedia.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000007,can_000020,exact_email,2,office@westernflameapparel.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000008,can_000028,exact_email,2,info@summitwavehealth.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000009,can_000001,exact_email,2,info@aspenheronconstruction.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000009,can_000001,rule_name_domain,3,aspen heron construction|aspenheronconstruction.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000009,can_000001,rule_phone_name,4,+12115552739|aspen
+run_20261029T122428965Z_c01f61f4,support,SUP-0000010,can_000019,rule_name_domain,3,apex wood retail|apexwoodretail.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000013,can_000058,exact_email,2,contact@valleycloudfoods.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000013,can_000058,rule_name_domain,3,valley cloud foods|valleycloudfoods.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000013,can_000058,rule_phone_name,4,+12565554122|valley
+run_20261029T122428965Z_c01f61f4,support,SUP-0000014,can_000051,exact_email,2,contact@islandrootmining.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000014,can_000051,rule_phone_name,4,+12505558689|island
+run_20261029T122428965Z_c01f61f4,support,SUP-0000015,can_000008,exact_email,2,info@islandgroveenergy.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000015,can_000008,rule_name_domain,3,island grove energy|islandgroveenergy.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000015,can_000008,rule_phone_name,4,+12165558172|island
+run_20261029T122428965Z_c01f61f4,support,SUP-0000016,can_000066,exact_email,2,hello@oakforgesolutions.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000016,can_000066,rule_name_domain,3,oak forge solutions|oakforgesolutions.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000017,can_000068,exact_email,2,contact@arctictigerstudios.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000018,can_000052,rule_name_domain,3,vector port pharma|vectorportpharma.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000019,can_000014,exact_email,2,info@valleybearcapital.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000019,can_000014,rule_name_domain,3,valley bear capital|valleybearcapital.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000019,can_000014,rule_phone_name,4,+12215555686|valley
+run_20261029T122428965Z_c01f61f4,support,SUP-0000020,can_000035,rule_phone_name,4,+12385551985|willow
+run_20261029T122428965Z_c01f61f4,support,SUP-0000021,can_000059,exact_email,2,accounts@frontierstonemotors.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000023,can_000010,exact_email,2,info@meadowsparrowmaterials.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000023,can_000010,rule_name_domain,3,meadow sparrow materials|meadowsparrowmaterials.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000025,can_000015,exact_email,2,accounts@silverrockelectronics.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000025,can_000015,rule_name_domain,3,silver rock electronics|silverrockelectronics.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000025,can_000015,rule_phone_name,4,+12225553605|silver
+run_20261029T122428965Z_c01f61f4,support,SUP-0000026,can_000006,rule_name_domain,3,pacific tower services|pacifictowerservices.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000026,can_000006,rule_phone_name,4,+12155552334|pacific
+run_20261029T122428965Z_c01f61f4,support,SUP-0000030,can_000018,exact_email,2,info@silvermillanalytics.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000032,can_000017,rule_phone_name,4,+12235559443|maple
+run_20261029T122428965Z_c01f61f4,support,SUP-0000033,can_000009,exact_email,2,office@vertexlightfreight.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000034,can_000003,exact_email,2,accounts@societegeneraledeseaux.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000034,can_000003,rule_name_domain,3,société générale des eaux|societegeneraledeseaux.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000036,can_000056,rule_phone_name,4,+12545558284|silver
+run_20261029T122428965Z_c01f61f4,support,SUP-0000037,can_000063,exact_email,2,accounts@royalgroveapparel.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000037,can_000063,rule_phone_name,4,+12605553717|royal
+run_20261029T122428965Z_c01f61f4,support,SUP-0000039,can_000034,rule_phone_name,4,+12375554066|oak
+run_20261029T122428965Z_c01f61f4,support,SUP-0000040,can_000022,exact_email,2,office@royalportelectronics.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000040,can_000022,rule_name_domain,3,royal port electronics|royalportelectronics.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000041,can_000055,exact_email,2,office@emeraldlinkservices.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000042,can_000007,exact_email,2,accounts@southernbridgesoftware.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000042,can_000007,exact_tax_id,1,TX877173965
+run_20261029T122428965Z_c01f61f4,support,SUP-0000042,can_000007,rule_name_domain,3,southern bridge software|southernbridgesoftware.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000044,can_000037,exact_email,2,office@mullerprazisionstechnik.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000045,can_000024,exact_email,2,office@southerntrailrobotics.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000045,can_000024,rule_phone_name,4,+12295554876|southern
+run_20261029T122428965Z_c01f61f4,support,SUP-0000046,can_000013,rule_name_domain,3,golden wave textiles|goldenwavetextiles.example
+run_20261029T122428965Z_c01f61f4,support,SUP-0000046,can_000013,rule_phone_name,4,+12205557767|golden
