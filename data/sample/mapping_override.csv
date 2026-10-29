@@ -1,0 +1,3 @@
+source_system,source_id,canonical_id,reason,created_at
+billing,BIL-0000001,can_000029,steward linked dirty record,2026-08-15T09:00:00Z
+billing,BIL-0000031,can_000050,steward resolved conflict,2026-08-15T09:00:00Z

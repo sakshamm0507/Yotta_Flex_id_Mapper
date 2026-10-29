@@ -1,0 +1,6 @@
+source_system,source_id,name,email,phone,domain,tax_id,canonical_ref
+billing,BIL-0000004,Emerald  Spark Metals  Inc.,Contact@emeraldsparkmetals.example,2825555449,https://emeraldsparkmetals.example/,TX 403 112 817,
+billing,BIL-0000013,island sky foods llc,Rosa.park@islandskyfoods.example,,,TX 473 306 205,
+billing,BIL-0000028,Amber Wave Plastics,,,,tx438209511,
+billing,BIL-0000014,Coral Tiger Finance,,,coraltigerfinance.example,TX-455-757-858,
+billing,BIL-0000044,Summit Way Electronics Pvt. Ltd.,,,,tx420661164,

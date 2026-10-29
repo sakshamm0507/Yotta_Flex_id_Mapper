@@ -1,0 +1,6 @@
+source_system,source_id,name,email,phone,domain,tax_id,canonical_ref,source_updated_at
+crm,CRM-0000022,Golden-Cloud Plastics Inc,,,http://www.GOLDENCLOUDPLASTICS.EXAMPLE,tx333175208,,2026-10-02T09:00:00Z
+crm,CRM-0000049,Wilolw  Falcon Exports  Pvt Ltd,Farah.garcia@willowfalconexports.example,,willowfalconexports.example/about,tx385820249,,2026-10-08T11:00:00Z
+crm,CRM-0000048,Apex Wood Retail Limited,ADMIN@APEXWOODRETAIL.EXAMPLE,1 225 555 5281,,,,2026-10-06 07:00:00
+crm,CRM-0000026,POLAR HAWK SOLUTIONS LIMITED,,,,TX 473 561 984,,2026-09-05T20:48:47Z
+crm,CRM-0000053,Silver Tiger Labs Private Limited,,,,TX 052 401 656,,2026-08-31T18:39:38Z

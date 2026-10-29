@@ -1,0 +1,6 @@
+source_id,source_system,loyalty_tier,name,email,phone,domain,tax_id,source_updated_at
+SUP-0000043,support,bronze,Valley Heron Networks Inc.,office@valleyheronnetworks.example,1 277 555 0016,,,2026-10-05T05:36:00Z
+SUP-0000031,support,silver,"Summit Port Ventures, Corporation",Info@summitportventures.example,+1 276 555 2097,http://www.SUMMITPORTVENTURES.EXAMPLE,,2026-10-05T17:27:00Z
+SUP-0000047,support,bronze,Polar  Sky Trading  Corporation,info@polarskytrading.example,(275) 555-4178,,,2026-10-05T05:35:00Z
+SUP-0000024,support,bronze,harbor ridge logistics corp.,Admin@harborridgelogistics.example,,,,2026-10-05T05:16:00Z
+SUP-0000048,support,bronze,River  Light Holdings  Inc,Info@riverlightholdings.example,,,,2026-10-05 11:43:00

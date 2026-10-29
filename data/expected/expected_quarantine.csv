@@ -1,0 +1,12 @@
+source_file,source_row_num,expected_reason_code
+billing_batch_001.csv,12,DUPLICATE_KEY_SUPERSEDED
+billing_batch_001.csv,17,MISSING_REQUIRED_FIELD
+billing_batch_001.csv,42,INVALID_CANONICAL_REF
+crm_batch_001.csv,2,TYPE_CAST_FAILED
+crm_batch_001.csv,31,INVALID_EMAIL
+support_batch_001.csv,12,MALFORMED_ROW
+support_batch_001.csv,14,MALFORMED_ROW
+support_batch_001.csv,27,UNKNOWN_SOURCE_SYSTEM
+support_batch_001.csv,29,MISSING_REQUIRED_FIELD
+support_batch_001.csv,36,INVALID_PHONE
+support_batch_001.csv,46,MISSING_REQUIRED_FIELD

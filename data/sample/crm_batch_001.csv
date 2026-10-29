@@ -1,0 +1,57 @@
+source_system,source_id,name,email,phone,domain,tax_id,canonical_ref,source_updated_at
+crm,CRM-0000021,Valley Cloud Foods,,001 256 555 4122,valleycloudfoods.example,,,epoch
+crm,CRM-0000041,Southern Wave Consulting Llc,accounts@southernwaveconsulting.example,1 231 555 8633,www.southernwaveconsulting.example,,,2026-09-01T06:51:01Z
+crm,CRM-0000037,  Polar Sky Ventures Inc , office@polarskyventures.example ,2715554583,http://www.POLARSKYVENTURES.EXAMPLE,,,2026-09-27T18:07:04Z
+crm,CRM-0000042,EASTERN FIELD HEALTH CORPORATION,,+1-274-555-6259,,,,2026-09-03 19:15:03
+crm,CRM-0000017,  Polar Grove Plastics llc ,YARA.NAIR@POLARGROVEPLASTICS.EXAMPLE,+1-243-555-7418,polargroveplastics.example/about,tx262981820,,2026-09-15T18:04:24Z
+crm,CRM-0000036,  Bright Lion Studios Private Limited ,office@brightlionstudios.example,249.555.2851,http://www.BRIGHTLIONSTUDIOS.EXAMPLE,,,2026-09-28T15:08:57Z
+crm,CRM-0000013,"Granite Leaf Marine, llc",Accounts@graniteleafmarine.example,2305552795,graniteleafmarine.example,TX-561-303-719,,2026-09-07T15:05:45Z
+crm,CRM-0000030,pine stone marine inc.,,,,,,2026-09-18 21:21:48
+crm,CRM-0000004,swift stone exports inc,INFO@SWIFTSTONEEXPORTS.EXAMPLE,1 236 555 6147,https://swiftstoneexports.example/,TX 420 916 943,,2026-09-06 04:56:20
+crm,CRM-0000009,  Emerald Link Services Incorporated ,uma.garcia@emeraldlinkservices.example,,http://www.EMERALDLINKSERVICES.EXAMPLE,TX 034 853 309,can_000055,2026-09-06 06:45:50
+crm,CRM-0000040,Granite Heron Motors Pvt Ltd,Admin@graniteheronmotors.example,,http://www.GRANITEHERONMOTORS.EXAMPLE,,,2026-09-13T07:24:25Z
+crm,CRM-0000025,  Ivory Brook Furniture llc ,admin@ivorybrookfurniture.example,1 263 555 5393,,,,2026-09-16T01:34:58Z
+crm,CRM-0000028,"Pine Wind Construction, Llc", hana.lopez@pinewindconstruction.example ,(235) 555-8228,,tx438465290,,2026-09-12T16:31:06Z
+crm,CRM-0000048,Apex  Wood Retail  Limited, admin@apexwoodretail.example ,(225) 555-5281,,TX 666 593 801,can_000019,2026-09-13T15:14:40Z
+crm,CRM-0000052,Silver-Spring Foods Corp,,254.555.8284,,TX-017-304-962,can_000056,2026-09-24 16:57:40
+crm,CRM-0000014,Oak Tiger Energy LLC, office@oaktigerenergy.example ,001 245 555 3256,www.oaktigerenergy.example,,,2026-09-15T23:54:50Z
+crm,CRM-0000022,Royal  Port Electronics  INC, office@royalportelectronics.example ,(227) 555-9038,http://www.ROYALPORTELECTRONICS.EXAMPLE,,can_000022,2026-09-17 20:33:04
+crm,CRM-0000018,southern light ventures corp, info@southernlightventures.example ,244.555.5337,www.southernlightventures.example,,,2026-09-06T08:51:10Z
+crm,CRM-0000020,"Coral Grove Software, Corporation",Jo.novak@coralgrovesoftware.example,+1 231 555 0714,coralgrovesoftware.example,,,2026-09-24 10:28:37
+crm,CRM-0000008,Northern Light Exports,Info@northernlightexports.example,2425551580,https://northernlightexports.example/,,,2026-09-03T02:33:39Z
+crm,CRM-0000044,Aspen  Heron Construction  Inc., info@aspenheronconstruction.example ,(211) 555-2739,www.aspenheronconstruction.example,,can_000001,2026-09-03T02:03:06Z
+crm,CRM-0000053,Southern Trail Robotics,Office@southerntrailrobotics.example,,southerntrailrobotics.example/about,,,2026-09-10T18:39:38Z
+crm,CRM-0000050,  Arctic Tiger Studios Corp. ,CONTACT@ARCTICTIGERSTUDIOS.EXAMPLE,1 264 555 3312,arctictigerstudios.example,,,2026-09-16T20:36:07Z
+crm,CRM-0000049,WILOLW FALCON EXPORTS PVT LTD,FARAH.GARCIA@WILLOWFALCONEXPORTS.EXAMPLE,,http://www.WILLOWFALCONEXPORTS.EXAMPLE,,,2026-09-20T22:38:21+05:30
+crm,CRM-0000010,"Summit Fox Exports, Ltd",Office@summitfoxexports.example,246.555.9094,summitfoxexports.example,,can_000046,2026-09-08T19:57:03Z
+crm,CRM-0000007,Swift  Stone Exports  Incorporated,INFO@SWIFTSTONEEXPORTS.EXAMPLE,236.555.6147,https://swiftstoneexports.example/, TX420916943 ,,2026-09-27T14:46:09Z
+crm,CRM-0000026,Solar-Spark Ventures Llc,HELLO@SOLARSPARKVENTURES.EXAMPLE,1 212 555 0658,http://www.SOLARSPARKVENTURES.EXAMPLE,,,2026-09-12T20:48:47Z
+crm,CRM-0000024,"Solar Tower Industries, llc", office@solartowerindustries.example ,,solartowerindustries.example/about,TX-929-563-227,,2026-09-02T08:14:10Z
+crm,CRM-0000046,oak peak materials incorporated, info@oakpeakmaterials.example ,,http://www.OAKPEAKMATERIALS.EXAMPLE,,,2026-09-09T05:08:43Z
+crm,CRM-0000029,willow seed devices ltd.,two@@signs.example,,https://willowseeddevices.example/, TX280530167 ,can_000041,2026-09-14T15:15:08Z
+crm,CRM-0000012,  Meadow Sparrow Materials Ltd ,,(218) 555-4010,www.meadowsparrowmaterials.example,,,2026-09-25T10:07:28Z
+crm,CRM-0000001,Heritage Peak Exports,ACCOUNTS@HERITAGEPEAKEXPORTS.EXAMPLE,001 257 555 9960,,,,2026-09-12T22:35:50Z
+crm,CRM-0000011,Vector  Port Pharma  llc,WEN.LEE@VECTORPORTPHARMA.EXAMPLE,+1-251-555-6608,www.vectorportpharma.example,,,2026-09-24T13:40:38Z
+crm,CRM-0000034,Island Bloom Aviation Pvt Ltd,,+1 216 555 8172,,,,2026-09-03T00:03:47Z
+crm,CRM-0000049,WILOLW FALCON EXPORTS PVT LTD,FARAH.GARCIA@WILLOWFALCONEXPORTS.EXAMPLE,,http://www.WILLOWFALCONEXPORTS.EXAMPLE,,,2026-09-20T22:38:21+05:30
+crm,CRM-0000045,Royal-Grove Apparel Limited,Lena.lee@royalgroveapparel.example,+1-260-555-3717,www.royalgroveapparel.example,tx894466533,can_000041,2026-09-08 01:05:49
+crm,CRM-0000027,Island Grove Energy Pvt. Ltd.,Lena.patel@islandgroveenergy.example,216.555.8172,,tx859625618,,2026-09-05T08:46:48Z
+crm,CRM-0000022,Royal  Port Electronics  INC, office@royalportelectronics.example ,(227) 555-9038,http://www.ROYALPORTELECTRONICS.EXAMPLE,,can_000022,2026-09-17 20:33:04
+crm,CRM-0000032,Crimson  Trail Security  Ltd,Admin@crimsontrailsecurity.example,,,,,2026-09-27T08:43:28Z
+crm,CRM-0000051,GOLDEN WAVE TEXTILES LLC,,001 220 555 7767,https://goldenwavetextiles.example/,,,2026-09-21T19:03:51Z
+crm,CRM-0000031,POLAR HAWK SOLUTIONS LTD,gus.ito@polarhawksolutions.example,+1 234 555 2390,,tx473561984,,2026-09-07T21:18:41Z
+crm,CRM-0000038,Island  Root Mining Amber Mill Polar Eastern Systems Supply Port Freight Arctic Systems Blue Engineering Tower Frontier Line Textiles Atlantic Leaf Noble Sparrow Insurance Horizon Arctic Horizon Construction Clear Vertex Heritage Trading Aspen Oak Netw  llc,CONTACT@ISLANDROOTMINING.EXAMPLE,001 250 555 8689,islandrootmining.example,,can_000051,2026-09-03T05:06:17Z
+crm,CRM-0000039,Southern Otter Mining,Admin@southernottermining.example,250.555.0770,southernottermining.example/about,TX 122 595 044,,2026-09-09T09:20:42+05:30
+crm,CRM-0000015,Frontier-Stone Motors Corp.,ACCOUNTS@FRONTIERSTONEMOTORS.EXAMPLE,+1 257 555 2041,,,,2026-09-05T15:29:06+05:30
+crm,CRM-0000033,Summit  Wolf Freight  Corporation,OFFICE@SUMMITWOLFFREIGHT.EXAMPLE,1 219 555 9848,summitwolffreight.example/about, TX789432230 ,,2026-09-03T15:15:53Z
+crm,CRM-0000047,"Golden Cloud Plastics, Inc",Info@goldencloudplastics.example,2405555742,https://goldencloudplastics.example/,,,2026-09-24 14:56:24
+crm,CRM-0000006,Legacy Root Solutions,admin@legacyrootsolutions.example,+1 219 555 1929,legacyrootsolutions.example,TX-806-980-577,,2026-09-25 16:37:47
+crm,CRM-0000002,Swift Trail Networks LLC,,1 247 555 7013,,TX-175-240-085,,2026-09-16 18:02:08
+crm,CRM-0000019,OAK FORGE SOLUTIONS LTD.,hello@oakforgesolutions.example,(262) 555-7474,http://www.OAKFORGESOLUTIONS.EXAMPLE,,,2026-09-26T12:10:39Z
+crm,CRM-0000003,SILVER MILL ANALYTICS INCORPORATED,NIA.MOREAU@SILVERMILLANALYTICS.EXAMPLE,+1-224-555-7362,,,,2026-09-08T22:43:11Z
+crm,CRM-0000035,SOUTHERN BRIDGE SOFTWARE LLC,Tara.shah@southernbridgesoftware.example,001 216 555 0253,https://southernbridgesoftware.example/,,,2026-09-11 17:15:05
+crm,CRM-0000016,"SILVER
+SPRING TRADING LTD.",info@silverspringtrading.example,(235) 555-0309,www.silverspringtrading.example,,,2026-09-28T08:15:19Z
+crm,CRM-0000043,Summit Wave Health,Yara.khan@summitwavehealth.example,232.555.6552,,TX-508-658-678,,2026-09-22 14:29:55
+crm,CRM-0000005,CLEAR LION ANALYTICS LTD.,admin@clearlionanalytics.example,(259) 555-5798,,,,2026-09-20T04:31:35Z
+crm,CRM-0000023,SILVER ROCK ELECTRONICS CORP, hana.okafor@silverrockelectronics.example ,001 222 555 3605,www.silverrockelectronics.example,,,2026-09-03 02:54:14

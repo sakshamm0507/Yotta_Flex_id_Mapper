@@ -1,0 +1,49 @@
+source_system,source_id,name,email,phone,domain,tax_id,canonical_ref,source_updated_at
+support,SUP-0000042,Southern Bridge Software,accounts@southernbridgesoftware.example,,southernbridgesoftware.example/about,tx877173965,,2026-09-26T14:22:39Z
+support,SUP-0000007,Western  Flame Apparel  Llc, office@westernflameapparel.example ,,,,,2026-09-09T09:17:37+05:30
+support,SUP-0000037,  Royal Grove Apparel Ltd ,accounts@royalgroveapparel.example,+1-260-555-3717,,,,2026-09-15T09:13:56Z
+support,SUP-0000030,,Info@silvermillanalytics.example,,,,,2026-09-27T09:43:34Z
+support,SUP-0000038,Heritage-Peak Exports Ltd, nia.patel@heritagepeakexports.example ,,,,,2026-09-07T17:32:30Z
+support,SUP-0000019,Valley-Bear Capital Ltd, info@valleybearcapital.example ,1 221 555 5686,www.valleybearcapital.example,,,2026-09-10T04:32:45Z
+support,SUP-0000028,,Ben.khan@coralgrovesoftware.example,1 231 555 0714,,,,2026-09-12T17:36:51Z
+support,SUP-0000017,arctic tiger studios corporation,CONTACT@ARCTICTIGERSTUDIOS.EXAMPLE,,,,,2026-09-09 23:00:28
+support,SUP-0000040,Royal Port Electronics,OFFICE@ROYALPORTELECTRONICS.EXAMPLE,,royalportelectronics.example,,,2026-09-20 23:35:34
+support,SUP-0000041,EMERALD LINK SERVICES INCORPORATED,OFFICE@EMERALDLINKSERVICES.EXAMPLE,,,,,2026-09-22T01:55:36Z
+support,SUP-M000001,Desert Heron Ventures
+support,SUP-0000011,  Swift Spring Ventures Llc ,admin@swiftspringventures.example,2705556664,,,,2026-09-07T14:51:03Z
+support,SUP-M000000,Summit Line Materials, Inc,contact@summitlinematerials.example,,,,,2026-09-06T00:00:00Z
+support,SUP-0000029,   ,	,+1 233 555 4471,,   ,,2026-09-07T11:25:16Z
+support,SUP-0000023,Meadow-Sparrow Materials Limited, info@meadowsparrowmaterials.example ,,http://www.MEADOWSPARROWMATERIALS.EXAMPLE,,,2026-09-22T23:31:38Z
+support,SUP-0000014,island root mining amber mill polar eastern systems supply port freight arctic systems blue engineering tower frontier line textiles atlantic leaf noble sparrow insurance horizon arctic horizon construction clear vertex heritage trading aspen oak netw llc, contact@islandrootmining.example ,+1 250 555 8689,,,,2026-09-23T17:51:20Z
+support,SUP-0000008,  Summit Wave Health Llc ,INFO@SUMMITWAVEHEALTH.EXAMPLE,,,,,2026-09-18T01:28:54Z
+support,SUP-0000020,Willow  Falcon Exports  Pvt Ltd,Chen.nair@willowfalconexports.example,+1 238 555 1985,,,,2026-09-06T13:22:36Z
+support,SUP-0000021,,accounts@frontierstonemotors.example,,http://www.FRONTIERSTONEMOTORS.EXAMPLE,,,2026-09-13 04:54:58
+support,SUP-0000036,"Silver Spring Foods, Corp",,(254) 555-8284,,,,2026-09-10T05:08:35Z
+support,SUP-0000044,,OFFICE@MULLERPRAZISIONSTECHNIK.EXAMPLE,001 239 555 7823,https://mullerprazisionstechnik.example/,,,2026-09-18T11:59:26Z
+support,SUP-0000001,Solar-Spark Ventures Llc,,2125550658,,,,2026-09-02T19:15:37Z
+support,SUP-0000046,Golden Wave Textiles LLC,OMAR.NOVAK@GOLDENWAVETEXTILES.EXAMPLE,(220) 555-7767,https://goldenwavetextiles.example/,,,2026-09-07T04:43:00Z
+support,SUP-0000016,oak forge solutions ltd., hello@oakforgesolutions.example ,,http://www.OAKFORGESOLUTIONS.EXAMPLE,,,2026-09-05T23:02:41Z
+support,SUP-0000045,Southern-Trail Robotics Inc.,OFFICE@SOUTHERNTRAILROBOTICS.EXAMPLE,(229) 555-4876,,,,2026-09-07T21:20:18+05:30
+erp,ERP-000001,Solar Forge Health Inc,info@solarforgehealth.example,,,,,2026-09-04T00:00:00Z
+support,SUP-0000005,eastern grove retail llc,Accounts@easterngroveretail.example,(241) 555-3661,https://easterngroveretail.example/,TX-315-626-861,,2026-09-11 00:30:41
+support,SUP-0000012,willow tiger trading llc,Accounts@willowtigertrading.example,,,,,
+support,SUP-0000002,  Pine Wind Construction Llc , eli.khan@pinewindconstruction.example ,+1-235-555-8228,https://pinewindconstruction.example/,,,2026-09-06T22:56:47+05:30
+support,SUP-0000039,Oak Peak Materials Incorporated,,+1-237-555-4066,,,,2026-09-23T09:18:44Z
+support,SUP-0000011,  Swift Spring Ventures Llc ,admin@swiftspringventures.example,2705556664,,,,2026-09-07T14:51:03Z
+support,SUP-0000003,Silver  Tiger Labs  PVT LTD,Contact@silvertigerlabs.example,+1 253 555 2446,silvertigerlabs.example,,,2026-09-13T20:05:03Z
+support,SUP-0000027,SOUTHERN OTTER MINING LLC, ben.olsen@southernottermining.example ,,,,,2026-09-04T11:40:27Z
+support,SUP-0000025,  Silver Rock Electronics Corporation ,Accounts@silverrockelectronics.example,2225553605,www.silverrockelectronics.example,,,2026-09-13T16:19:01Z
+support,SUP-0000035,SUMMIT WOLF FREIGHT CORPORATION,ROSA.LEE@SUMMITWOLFFREIGHT.EXAMPLE,+1 (415) 555-01XX,,,,2026-09-10T23:58:16Z
+support,SUP-0000018,Vector  Port Pharma  Llc,KAI.KIM@VECTORPORTPHARMA.EXAMPLE,,www.vectorportpharma.example,,,2026-09-17T07:59:15+05:30
+support,SUP-0000015,  Island Grove Energy Private Limited ,INFO@ISLANDGROVEENERGY.EXAMPLE,001 216 555 8172,http://www.ISLANDGROVEENERGY.EXAMPLE,,,2026-09-21T13:58:03Z
+support,SUP-0000033,Vertex Light Freight Corp, office@vertexlightfreight.example ,,,,,2026-09-17T12:28:39Z
+support,SUP-0000013,"Valley Cloud Foods, Limited",contact@valleycloudfoods.example,+1-256-555-4122,valleycloudfoods.example/about,,,2026-09-18T10:36:34Z
+support,SUP-0000010,Apex  Wood Retail  Ltd.,Eli.ito@apexwoodretail.example,,apexwoodretail.example,,,2026-09-03T21:11:10Z
+support,SUP-0000032,Maple Star Consulting Inc.,quinn.kim@maplestarconsulting.example,001 223 555 9443,,,,2026-09-27T12:36:22Z
+support,SUP-0000022,Southern  Cloud Logistics  Private Limited,hello@southerncloudlogistics.example,,,,,2026-09-12T14:53:51Z
+support,SUP-0000034,  Société Générale des Eaux Corp ,accounts@societegeneraledeseaux.example,,societegeneraledeseaux.example,,,2026-09-11T04:49:47Z
+support,SUP-0000004,bright lion studios private limited,OFFICE@BRIGHTLIONSTUDIOS.EXAMPLE,+1 249 555 2851,,,,2026-09-15T01:17:55Z
+support,,Lunar Tower Devices Corp,office@lunartowerdevices.example,,,,,2026-09-05T00:00:00Z
+support,SUP-0000009,  Aspen Heron Construction Inc. ,info@aspenheronconstruction.example,2115552739,http://www.ASPENHERONCONSTRUCTION.EXAMPLE,,,2026-09-03 07:09:46
+support,SUP-0000026,Pacific Tower Services,Vik.olsen@pacifictowerservices.example,1 215 555 2334,http://www.PACIFICTOWERSERVICES.EXAMPLE,,,2026-09-20T02:37:06Z
+support,SUP-0000006,Highland Crest Media,Admin@highlandcrestmedia.example,,,,,2026-09-06T11:38:27Z

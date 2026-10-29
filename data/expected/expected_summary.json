@@ -1,0 +1,61 @@
+{
+  "seed": 7,
+  "base_records": 143,
+  "canonical_entities": 84,
+  "active_canonicals": 83,
+  "manual_overrides": 2,
+  "source_rows_by_file": {
+    "billing_batch_001.csv": 55,
+    "broken_schema_batch.csv": 5,
+    "crm_batch_001.csv": 55,
+    "crm_batch_002.csv": 5,
+    "schema_drift_batch.csv": 5,
+    "support_batch_001.csv": 48
+  },
+  "exact_duplicate_rows": 3,
+  "late_arrival_records": 2,
+  "many_to_one_keys": 6,
+  "expected_status_counts": {
+    "CONFLICT": 3,
+    "MAPPED": 130,
+    "QUARANTINED": 5,
+    "UNRESOLVED": 16
+  },
+  "expected_quarantine_by_code": {
+    "DUPLICATE_KEY_SUPERSEDED": 1,
+    "INVALID_CANONICAL_REF": 1,
+    "INVALID_EMAIL": 1,
+    "INVALID_PHONE": 1,
+    "MALFORMED_ROW": 2,
+    "MISSING_REQUIRED_FIELD": 3,
+    "TYPE_CAST_FAILED": 1,
+    "UNKNOWN_SOURCE_SYSTEM": 1
+  },
+  "scenario_record_counts": {
+    "boundary_embedded_newline": 1,
+    "boundary_long_id": 1,
+    "boundary_max_length": 1,
+    "boundary_unicode_name": 4,
+    "boundary_whitespace_only": 1,
+    "broken_schema": 5,
+    "clean": 116,
+    "conflict_keeps_mapping": 1,
+    "dirty_name": 1,
+    "dirty_name+override": 1,
+    "duplicate_account": 2,
+    "inactive_only": 2,
+    "invalid_canonical_ref": 1,
+    "late_arrival": 2,
+    "malformed_value": 3,
+    "missing_required": 1,
+    "no_match": 7,
+    "one_to_many_email": 2,
+    "one_to_many_name_domain+override": 1,
+    "remap": 1,
+    "schema_drift": 5,
+    "superseded_version": 1,
+    "twin_entity": 3,
+    "unresolved_then_mapped": 1,
+    "weak_rule_false_positive": 1
+  }
+}

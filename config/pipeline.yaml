@@ -1,0 +1,72 @@
+# ID mapping pipeline configuration.
+# Relative paths resolve against the repository root (the parent of config/).
+
+paths:
+  db: data/idmap.duckdb
+  incoming_dir: data/incoming
+  incoming_pattern: "*.csv"          # files picked up by `idmap run`, processed in filename order
+  log_dir: output/logs               # one JSONL file per run
+  report_file: output/report.md
+
+reference:
+  canonical_file: data/generated/canonical_entity.csv
+  override_file: data/generated/mapping_override.csv   # manual crosswalk (rule P0); optional
+
+validation:
+  allowed_source_systems: [crm, billing, support]
+  # Batch circuit breaker: fail the run (nothing committed) when more than this share
+  # of rows is rejected by row validation. Only applies to files with at least
+  # `reject_rate_min_rows` rows, so tiny files are not failed by one bad line.
+  max_reject_rate: 0.5
+  reject_rate_min_rows: 100
+
+normalization:
+  default_country_code: "1"          # prefixed to 10-digit national phone numbers
+  phone_min_digits: 8                # E.164 digit bounds (excluding '+')
+  phone_max_digits: 15
+  name_suffixes: [inc, incorporated, ltd, limited, pvt, private, llc, corp, corporation]
+
+matching:
+  # Lower priority wins. For each source key the highest-priority rule with any
+  # active-canonical hit decides; weaker rules are never consulted after that.
+  rules:
+    - {id: manual_override,  priority: 0, enabled: true}
+    - {id: exact_tax_id,     priority: 1, enabled: true}
+    - {id: exact_email,      priority: 2, enabled: true}
+    - {id: rule_name_domain, priority: 3, enabled: true}
+    - {id: rule_phone_name,  priority: 4, enabled: true}
+
+quality:
+  expected_dir: data/generated/expected   # ground-truth labels, kept apart from the inputs
+  # Soft thresholds: breaching one is a WARN in the report, never a hard failure.
+  thresholds:
+    min_precision: 0.95
+    min_recall: 0.80
+    max_conflict_rate: 0.05
+    max_unresolved_rate: 0.20
+    max_quarantine_rate: 0.10
+
+duckdb:
+  threads: null          # null = DuckDB default (all cores)
+  memory_limit: null     # e.g. "4GB"; null = DuckDB default (80% of RAM)
+
+generator:
+  # Scenario injection rates used by scripts/generate.py, as a share of base source records.
+  rates:
+    exact_duplicate: 0.02            # identical row repeated in the same batch
+    conflicting_duplicate: 0.01      # same key, older timestamp, different payload
+    missing_required: 0.01           # null source_id / source_system / source_updated_at
+    malformed_value: 0.015           # bad email, phone or timestamp
+    unknown_source_system: 0.005
+    invalid_canonical_ref: 0.005
+    one_to_many_conflict: 0.01       # canonicals sharing an email or name+domain
+    no_match: 0.05                   # entity absent from the master
+    inactive_only: 0.005             # only an inactive canonical matches
+    boundary_value: 0.01             # unicode, max-length, whitespace-only, embedded newline
+    # Additional scenarios that make the quality metrics meaningful:
+    malformed_line: 0.002            # wrong column count
+    dirty_name: 0.01                 # typo'd name, no strong identifier (recall miss)
+    weak_rule_false_positive: 0.003  # shared phone + first name token (precision miss)
+    duplicate_account: 0.005         # two ids in one system for one entity
+    manual_override: 0.002           # steward crosswalk entries
+  late_batch_share: 0.05             # size of crm_batch_002 relative to crm_batch_001

@@ -1,0 +1,22 @@
+# Environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.coverage.*
+.idea/
+.vscode/
+.DS_Store
+
+# Databases (rebuilt from inputs)
+*.duckdb
+*.duckdb.wal
+
+# Large or per-machine data: only data/sample and data/expected are committed
+data/generated/
+data/incoming/
+
+# Per-run logs (output/sample_run/run_log.jsonl is the committed evidence)
+output/logs/
+output/sample_run/logs/

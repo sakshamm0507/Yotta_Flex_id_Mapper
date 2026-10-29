@@ -1,0 +1,7 @@
+# Runtime
+duckdb==1.4.4
+PyYAML==6.0.3
+click==8.1.8
+# Tests
+pytest==8.4.2
+pytest-cov==6.3.0
